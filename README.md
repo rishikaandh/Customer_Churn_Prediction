@@ -80,7 +80,7 @@ To replicate this analysis, ensure you have the following tools and libraries in
    Step 9: Save and Share: Save your work and share it with others, like PDFs or Excel files.
 
 3. **Exploratory Data Analysis (EDA) using Python**: Run the Python code for in-depth analysis of the data:
-   - [`DAC_phase3.ipynb`]([/analysis/phase3_eda.ipynb](https://github.com/rishikaandh/Customer_Churn_Prediction/blob/main/DAC_phase3.ipynb))
+   - [`DAC_phase3.ipynb`](DAC_phase3.ipynb)
 
 4. **Feature Engineering**: Apply feature encoding and scaling using the provided Python code:
    - [`DAC_phase4.ipynb`]([/analysis/phase4_feature_engineering.ipyn](https://github.com/rishikaandh/Customer_Churn_Prediction/blob/main/DAC_phase4.ipynb)b)
