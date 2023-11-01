@@ -109,17 +109,3 @@ If you want to interact with this project through the command line, follow these
 Ensure you have the necessary dependencies installed. If not, install them using:
   ```bash
   pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
