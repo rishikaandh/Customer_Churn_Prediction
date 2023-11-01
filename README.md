@@ -52,7 +52,7 @@ Our predictive modeling process comprises:
 ### Requirements
 
 To replicate this analysis, ensure you have the following tools and libraries installed:
-- Python (version X.X)
+- Python (version 3.X)
 - Jupyter Notebook
 - IBM Cognos (if applicable)
 
@@ -61,29 +61,29 @@ To replicate this analysis, ensure you have the following tools and libraries in
 1. **Data Collection**: Gather the customer data as described in the project documentation.
 
 2. **Data Visualization using IBM Cognos**: If you are using IBM Cognos for data visualization, follow these steps to create visualizations:
-   Log In: Go to the IBM Cognos website and log in with your username and password.
+   Step 1: Log In: Go to the IBM Cognos website and log in with your username and password.
 
-   Connect Data: Choose your data source, like a database or spreadsheet, to access your data.
+   Step 2: Connect Data: Choose your data source, like a database or spreadsheet, to access your data.
 
-   Create Content: Make a report, dashboard, or chart, depending on what you need.
+   Step 3: Create Content: Make a report, dashboard, or chart, depending on what you need.
 
-    Pick Data: Select the data you want to visualize from your source.
+   Step 4: Pick Data: Select the data you want to visualize from your source.
 
-   Design Visuals: Create charts, tables, and graphs to show your data.
+   Step 5: Design Visuals: Create charts, tables, and graphs to show your data.
 
-   Style Visuals: Customize the look of your visuals with colors, fonts, and labels.
+   Step 6: Style Visuals: Customize the look of your visuals with colors, fonts, and labels.
 
-   Add Interactivity: Make your reports interactive with filters and prompts.
+   Step 7: Add Interactivity: Make your reports interactive with filters and prompts.
 
-   Organize: Arrange your visuals neatly on your report or dashboard.
+   Step 8: Organize: Arrange your visuals neatly on your report or dashboard.
 
-   Save and Share: Save your work and share it with others, like PDFs or Excel files.
+   Step 9: Save and Share: Save your work and share it with others, like PDFs or Excel files.
 
 3. **Exploratory Data Analysis (EDA) using Python**: Run the Python code for in-depth analysis of the data:
-   - [`phase3_eda.ipynb`](/analysis/phase3_eda.ipynb)
+   - [`DAC_phase3.ipynb`]([/analysis/phase3_eda.ipynb](https://github.com/rishikaandh/Customer_Churn_Prediction/blob/main/DAC_phase3.ipynb))
 
 4. **Feature Engineering**: Apply feature encoding and scaling using the provided Python code:
-   - [`phase4_feature_engineering.ipynb`](/analysis/phase4_feature_engineering.ipynb)
+   - [`DAC_phase4.ipynb`]([/analysis/phase4_feature_engineering.ipyn](https://github.com/rishikaandh/Customer_Churn_Prediction/blob/main/DAC_phase4.ipynb)b)
 
 5. **Model Selection and Evaluation using Python**: Implement and evaluate the predictive models with the provided code:
    - [`phase5_model_selection.ipynb`](/analysis/phase5_model_selection.ipynb)
