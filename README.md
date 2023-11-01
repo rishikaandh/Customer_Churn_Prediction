@@ -105,7 +105,8 @@ If you want to interact with this project through the command line, follow these
    git clone https://github.com/yourusername/your-repo-name.git
    cd Customer_Churn_Prediction
 
-2.Install Dependencies:
-Ensure you have the necessary dependencies installed. If not, install them using:
+2. **Install Dependencies:**
+    **Ensure you have the necessary dependencies installed. If not, install them using:**
   ```bash
   pip install -r requirements.txt
+
