@@ -11,9 +11,7 @@
   - [Requirements](#requirements)
   - [Step-by-Step Guide](#step-by-step-guide)
 - [Example Outputs](#example-outputs)
-- [Advanced Usage](#advanced-usage)
-  - [Customization](#customization)
-  - [Extending the Analysis](#extending-the-analysis)
+- [Command-Line Utilization](#command-line-utilization)
 - [Conclusion](#conclusion)
 
 ## Project Overview
@@ -61,6 +59,7 @@ To replicate this analysis, ensure you have the following tools and libraries in
 1. **Data Collection**: Gather the customer data as described in the project documentation.
 
 2. **Data Visualization using IBM Cognos**: If you are using IBM Cognos for data visualization, follow these steps to create visualizations:
+
    Step 1: Log In: Go to the IBM Cognos website and log in with your username and password.
 
    Step 2: Connect Data: Choose your data source, like a database or spreadsheet, to access your data.
@@ -106,7 +105,9 @@ If you want to interact with this project through the command line, follow these
    cd Customer_Churn_Prediction
 
 2. **Install Dependencies:**
-    **Ensure you have the necessary dependencies installed. If not, install them using:**
-  ```bash
-  pip install -r requirements.txt
+   Ensure you have the necessary dependencies installed. If not, install them using:
+   ```bash
+   pip install -r requirements.txt
+
+This GitHub repository serves as a comprehensive resource for replicating the customer churn analysis and prediction. Customize and extend this README to communicate your analysis effectively.
 
