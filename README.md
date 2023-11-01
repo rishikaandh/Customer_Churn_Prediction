@@ -83,10 +83,10 @@ To replicate this analysis, ensure you have the following tools and libraries in
    - [`DAC_phase3.ipynb`](DAC_phase3.ipynb)
 
 4. **Feature Engineering**: Apply feature encoding and scaling using the provided Python code:
-   - [`DAC_phase4.ipynb`]([/analysis/phase4_feature_engineering.ipyn](https://github.com/rishikaandh/Customer_Churn_Prediction/blob/main/DAC_phase4.ipynb)b)
+   - [`DAC_phase4.ipynb`](DAC_phase4.ipynb)
 
 5. **Model Selection and Evaluation using Python**: Implement and evaluate the predictive models with the provided code:
-   - [`phase5_model_selection.ipynb`](/analysis/phase5_model_selection.ipynb)
+   - [`phase5_model_selection.ipynb`](DAC_Model.ipynb)
 
 6. **Insights and Recommendations**: Document the insights and recommendations based on the analysis.
 
@@ -94,24 +94,32 @@ To replicate this analysis, ensure you have the following tools and libraries in
 
 Here are some example outputs of the visualizations and analyses:
 
-- [Link to IBM Cognos Visualizations](cognos_visualizations.pdf)
-- [Link to Python Analysis Results](python_analysis_results.pdf)
+- [Link to IBM Cognos Visualizations](DAC_phase4.pdf)
 
-## Advanced Usage
+## Command-Line Utilization
 
-### Customization
+If you want to interact with this project through the command line, follow these steps:
 
-- **Modify the Template**: Customize this README template to suit your project's specific requirements.
-- **Add Project Structure**: If your project involves multiple files and directories, create a structured tree-like representation of your project within this README.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd Customer_Churn_Prediction
 
-### Extending the Analysis
+2.Install Dependencies:
+Ensure you have the necessary dependencies installed. If not, install them using:
+  ```bash
+  pip install -r requirements.txt
 
-- **Adding New Analyses**: If you expand your analysis with more EDA, additional models, or deeper insights, make sure to document these in the README.
-- **Interactive Features**: If you have interactive visualizations or web applications, describe how to access them.
 
-## Conclusion
 
-This GitHub repository serves as a comprehensive resource for replicating the customer churn analysis and prediction. Customize and extend this README to communicate your analysis effectively.
 
-[Author Name]
+
+
+
+
+
+
+
+
+
 
